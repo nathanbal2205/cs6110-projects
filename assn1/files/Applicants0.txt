@@ -1,0 +1,3 @@
+A: b,a,c
+B: c,b,a
+C: a,c,b

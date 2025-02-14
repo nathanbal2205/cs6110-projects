@@ -1,0 +1,6 @@
+A:  w,x,y
+B:  w,y,x
+C:  y,z
+D:  y,w,z
+E:  z
+F:  w,x,z

@@ -1,0 +1,5 @@
+q: A, C, E, D, B
+r: A, D, E, B, C
+s: C, A, B, D, E
+t: D, E, B, A, C
+u: D, E, C, A, B

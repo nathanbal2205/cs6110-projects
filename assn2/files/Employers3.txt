@@ -1,0 +1,5 @@
+v: C, A, B
+w: C, B, D
+x: D, C, A
+y: A, B, C
+z: D, C, B

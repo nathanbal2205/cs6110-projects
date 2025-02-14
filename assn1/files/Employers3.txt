@@ -1,0 +1,4 @@
+x:  A,F,B
+y:  B,C,A,D
+z:  C,B,D,F,E
+w:  E,D,F,A

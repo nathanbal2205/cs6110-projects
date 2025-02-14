@@ -1,0 +1,5 @@
+A: r, q, s
+B: r, u, t
+C: t, q, u
+D: t, r
+E: q, t
